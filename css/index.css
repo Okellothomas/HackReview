@@ -1,0 +1,16 @@
+#carouselExampleCaptions{
+    height: 70vh;
+}
+#carouselExampleCaptions img{
+    height: 70vh;
+}
+.card img{
+    height: 40vh;
+}
+.page-footer{
+    background-color: #2E2E2E;
+    color: white;
+}
+.footer-copyright{
+    background-color: #212121;
+}
